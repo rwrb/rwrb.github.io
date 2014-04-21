@@ -1,4 +1,4 @@
 rwrb.github.io
 ==============
 
-redirect for rwrb
+redirects to goodk.in
